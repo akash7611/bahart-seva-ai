@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN",
+    "category": "Agriculture",
+    "target": "Farmers",
+    "description": "Eligible landholding farmer families can receive financial support under the scheme.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "official_source": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pmay",
+    "name": "Pradhan Mantri Awas Yojana",
+    "category": "Housing",
+    "target": "Eligible families needing housing assistance",
+    "description": "Government housing assistance for eligible beneficiaries.",
+    "documents": [
+      "Aadhaar Card",
+      "Income Proof",
+      "Address Proof"
+    ],
+    "official_source": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "pmsby",
+    "name": "Pradhan Mantri Suraksha Bima Yojana",
+    "category": "Insurance",
+    "target": "Eligible bank account holders",
+    "description": "Low-cost accident insurance scheme available through participating banks.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank Account"
+    ],
+    "official_source": "https://www.jansuraksha.gov.in"
+  },
+  {
+    "id": "sukanya",
+    "name": "Sukanya Samriddhi Yojana",
+    "category": "Savings",
+    "target": "Parents or guardians of eligible girl children",
+    "description": "Government-backed savings scheme for the future of a girl child.",
+    "documents": [
+      "Girl Child Birth Certificate",
+      "Parent or Guardian ID",
+      "Address Proof"
+    ],
+    "official_source": "https://www.indiapost.gov.in"
+  }
+]
