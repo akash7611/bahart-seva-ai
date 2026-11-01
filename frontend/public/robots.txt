@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bahart-seva-ai.vercel.app/sitemap.xml
